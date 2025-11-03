@@ -34,15 +34,15 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ---
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamAndrew25&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAndrew25&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IamAndrew25&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAndrew25&layout=compact&langs_count=6&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamAndrew25&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=IamAndrew25&theme=react&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakNum=F8D866&sideNums=F8D866&currStreakLabel=F85D7F&sideLabels=F85D7F" />
 </p>
 
 ---
@@ -64,4 +64,5 @@
 </p>
 
 ---
+
 ⭐ *“Code is the art of turning imagination into logic.”*  
